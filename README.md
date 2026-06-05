@@ -2,7 +2,7 @@
 Portfolio personal de Lucas Nahuel Cioccale Pizarro. Estudiante de Programación Full Stack en la UPC. Incluye formación, tecnologías, proyectos y contacto.
 ---
 
-## 🌐 Portfolio Web
+## Portfolio Web
 
 Sitio web personal desarrollado para presentar mi perfil profesional, formación académica, tecnologías y proyectos realizados durante la carrera de Programación Full Stack.
 
@@ -11,7 +11,7 @@ https://nahuelluca1203-rgb.github.io
 
 ---
 
-## 🎯 Objetivos Profesionales
+## Objetivos Profesionales
 
 Actualmente busco adquirir experiencia en el área de tecnología y desarrollo de software, participando en proyectos que me permitan seguir creciendo como desarrollador Full Stack.
 
@@ -26,7 +26,7 @@ Me interesa especialmente:
 
 ---
 
-## 📚 Habilidades
+##  Habilidades
 
 ### Técnicas
 
@@ -57,7 +57,7 @@ Me interesa especialmente:
 
 ---
 
-## 🚀 Próximos Objetivos
+##  Próximos Objetivos
 
 - Ampliar conocimientos en JavaScript.
 - Desarrollar proyectos Full Stack completos.
